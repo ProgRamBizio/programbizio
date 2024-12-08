@@ -1,0 +1,17 @@
+h1, p, span {
+    font-family: Helvetica;
+}
+
+#title {
+    background-color: black;
+    color: white;
+}
+
+#greetings {
+    color: chartreuse;
+}
+
+#celebrations {
+    font-weight: bold;
+    color: red;
+}
